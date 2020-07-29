@@ -1,4 +1,4 @@
-### Hi there I'm YoungPengun 🐧🐧🐧
+### Hi there I'm YoungPenguin 🐧🐧🐧
 
 I'm a software and firmware engineer who is passionate about making open-source more accessible, creating technology to elevate people. Some technologies I enjoy working with include VueJS, Jamstack (JavaScript, APIs + Markup) and MongoDB.                                            
 
