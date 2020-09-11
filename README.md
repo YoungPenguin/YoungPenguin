@@ -3,6 +3,9 @@
 I'm a software and firmware developer who is passionate about making open-source more accessible, creating technology to elevate people. Some technologies I enjoy working with include VueJS, Jamstack (JavaScript, APIs + Markup) and MongoDB.                                            
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngpenguin&show_icons=true&theme=vue&layout=compact)](https://github.com/youngpenguin/github-readme-stats)
+
+![rick (2)](https://user-images.githubusercontent.com/56176145/92915283-b3c51f00-f42c-11ea-92cd-8688b4e87678.jpg)
+
 <!--
 **YoungPenguin/YoungPenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
