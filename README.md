@@ -1,10 +1,8 @@
 ### Hi there I'm YoungPenguin 🐧🐧🐧
 
-Future billionaire currently in student loan debt
 
-Go fuck yourself @jeffbezos it’s not for sale
-
-I'm a software and firmware developer who is passionate about making open-source more accessible, creating technology to elevate people. Some technologies I enjoy working with include Django, Jamstack (JavaScript, APIs + Markup) and MongoDB.                                            
+Go fuck yourself @jeffbezos 
+                                         
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngpenguin&show_icons=true&theme=vue&layout=compact)](https://github.com/youngpenguin/github-readme-stats)
 
